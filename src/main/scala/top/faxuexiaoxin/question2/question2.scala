@@ -53,7 +53,4 @@ object question2 {
         return newList.next
     }
 
-    def main(args: Array[String]): Unit = {
-
-    }
 }
